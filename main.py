@@ -1,8 +1,8 @@
 from typing import List
 from urllib.request import urlopen
 from googleapiclient.errors import HttpError
-from google.oauth2 import service_account
 
+from google.oauth2 import service_account
 import googleapiclient.discovery
 import functions_framework
 import base64
