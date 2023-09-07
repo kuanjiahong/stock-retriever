@@ -2,3 +2,4 @@
 __pycache__/
 .gcloudignore
 environment.yaml
+credentials.json
