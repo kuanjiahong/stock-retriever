@@ -1,0 +1,8 @@
+.gcloudignore
+.git
+.gitignore
+*.sh
+*.ps1
+README.md
+.venv/
+__pycache__/
