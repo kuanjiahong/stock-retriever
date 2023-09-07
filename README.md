@@ -12,6 +12,8 @@ Visit the website: https://kuanjiahong.github.io/stock-retriever/
 
    [Google OAuth2 with service account](https://developers.google.com/identity/protocols/oauth2/service-account#python)
 
+   After creating a service account, remember to add the service account email into the Google Spreadsheet
+
 3. Go to the website to get your API key
 
    [Financial Modelling Prep](https://site.financialmodelingprep.com/)
