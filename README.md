@@ -1,6 +1,7 @@
 # stock-retriever
 Use Google APIs to retrieve stock prices and update it onto Google Sheet
 
+Visit the website: https://kuanjiahong.github.io/stock-retriever/
 
 ## Set up
 1. Follow the instructions to enable Google API, install Google API library and generate `credentials.json` file
