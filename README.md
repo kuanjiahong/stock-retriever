@@ -8,21 +8,20 @@ Visit the website: https://kuanjiahong.github.io/stock-retriever/
 
    [Python quickstart for Google API](https://developers.google.com/docs/api/quickstart/python)
 
-2. Go to the website to get your API key
+   Authentication with Google Service Account
+
+   [Google OAuth2 with service account](https://developers.google.com/identity/protocols/oauth2/service-account#python)
+
+3. Go to the website to get your API key
 
    [Financial Modelling Prep](https://site.financialmodelingprep.com/)
 
-3. Create a Google Sheet document and note down the spreadsheet ID (you can obtained it from the spreadsheet URL)
+4. Create a Google Sheet document and note down the spreadsheet ID (you can obtained it from the spreadsheet URL)
 
    [Google Sheets API Overview](https://developers.google.com/sheets/api/guides/concepts)
 
 
-4. Authentication with Google Service Account
-
-   [Google OAuth2 with service account](https://developers.google.com/identity/protocols/oauth2/service-account#python)
-
-
-6. Schedule Cloud Functions
+5. Schedule Cloud Functions
 
    Topic name: `stocks`
    
