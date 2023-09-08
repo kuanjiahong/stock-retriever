@@ -1,5 +1,5 @@
 # stock-retriever
-Use Google APIs to retrieve stock prices and update it onto Google Sheet
+A function deployed on Google Cloud Platform will retrieve a particular stock data and update it onto Google Sheet on a daily basis.
 
 Visit the website: https://kuanjiahong.github.io/stock-retriever/
 
