@@ -14,9 +14,9 @@ Visit the website: https://kuanjiahong.github.io/stock-retriever/
 
    After creating a service account, remember to add the service account email into the Google Spreadsheet
 
-3. Go to the website to get your API key
+3. Go to the Financial Modeling Prep to get your API key
 
-   [Financial Modelling Prep](https://site.financialmodelingprep.com/)
+   [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs/)
 
 4. Create a Google Sheet document and note down the spreadsheet ID (you can obtained it from the spreadsheet URL)
 
